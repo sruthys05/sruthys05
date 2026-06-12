@@ -1,95 +1,108 @@
-# Hi there! 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=SRUTHY%20S&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Developer%20%2F%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-I'm **sruthys05** — a curious Full-Stack Developer building modern web experiences.
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=sruthys05">
+    <img src="https://komarev.com/ghpvc/?username=sruthys05&label=Profile%20views&color=00FFFF&style=flat-square" alt="sruthys05's profile views" />
+  </a>
+</p>
 
-Role: Full-Stack Developer (React + Spring Boot + Cloud & DevOps)
+## 📌 About Me
+- 🚀 Aspiring SDE, Cloud, and DevOps Engineer with a passion for AI, innovation, and continuous learning. Building skills to create scalable and real-world software solutions.
 
-Tagline: Crafting responsive React frontends and robust Spring Boot backends, with scalable cloud deployments and DevOps practices for clean APIs and great UX. 🚀
 
-## About Me
+## 🧠 My Focus Areas
+- 🚀 Software Development
+- ☁️ Cloud Computing
+- ⚙️ DevOps Practices
+- 💡 System Design
+- 🧠 Problem Solving (DSA)
+- 🔧 Backend Development
+- 🌐 Scalable Applications
 
-### About Me
 
-- Name: **sruthys05**
-- Role: Full‑Stack Developer (React + Spring Boot)
-- Location: Not specified
-- GitHub member since: June 2026
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/sruthys05">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sruthys05&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="sruthys05's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=sruthys05&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="SRUTHY S's GitHub Trophies" />
+</p>
 
-I build full‑stack web applications with a focus on responsive user interfaces and reliable RESTful backends. My most notable project so far is an e‑commerce demo (Deemart) that combines a React frontend and a Spring Boot backend. I enjoy improving UX, working with JSON APIs, and learning deployment workflows.
 
-Currently working on: polishing the Deemart e‑commerce project and exploring deployment & performance tools (Netlify, Docker).
+## 🛠️ Languages & Tools
 
-Website: https://deemarte-com.netlify.app/ 🌐
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
 
-## Skills & Technologies
+</p>
 
-react,js,java,spring,html,css,nodejs,netlify,github,git
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-## Top Projects
+</p>
 
-### Top Projects
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
 
-- [E-commerce-Website-Deemart](https://github.com/sruthys05/E-commerce-Website-Deemart)
-  - Description: E‑commerce site built with React.js frontend and Spring Boot backend. Responsive product listing, cart & checkout, JWT security and REST APIs.
-  - Stars: 0 ⭐
-  - Primary language: JavaScript
-  - Forks: 0 | Watchers: 0 | Open issues: 0
-  - Live demo / homepage: https://deemarte-com.netlify.app/ 🌐
+</p>
 
-- [sruthys05 (profile repo)](https://github.com/sruthys05/sruthys05)
-  - Description: Personal GitHub profile repository (this README / profile customization).
-  - Stars: 0 ⭐
-  - Primary language: —
-  - Forks: 0 | Watchers: 0 | Open issues: 0
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 
-(Note: Projects shown are based on repositories in this account. If you'd like a curated pinned list, pin repos on your GitHub profile.)
+</p>
 
-## GitHub Stats
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
 
-### GitHub Stats
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sruthys05&show_icons=true&theme=default)
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sruthys05&layout=compact&theme=default)
+</p>
 
-- Public repositories: **2**
-- Followers: **0**
-- Following: **0**
+<p align="center">
+  <a href="https://github.com/sruthys05">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sruthys05&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-Badges:
+## 🔗 Connect with Me
+<p align="center">
+  <a href="www.linkedin.com/in/ sruthy-s8 ">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:sruthy.saravanan84@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
-- ![Followers](https://img.shields.io/github/followers/sruthys05?label=Followers&style=for-the-badge)
-- ![Public Repos](https://img.shields.io/badge/Public%20Repos-2-blue?style=for-the-badge)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
-## Recent Activity
-
-### Recent Activity
-
-Here are the latest public events from this account (most recent first):
-
-- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T13:00:07Z
-- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:37:08Z
-- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:35:40Z
-- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:34:21Z
-- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:33:21Z
-- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:31:32Z
-- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:29:51Z
-- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:27:32Z
-- CreateEvent — Created branch `main` in [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T11:51:41Z
-- PushEvent — Pushed to [sruthys05/E-commerce-Website-Deemart](https://github.com/sruthys05/E-commerce-Website-Deemart) — 2026-06-10T10:02:38Z
-
-(Showing up to the last 10 public events.)
-
-## Latest Blog Posts
-
-### Latest Blog Posts
-
-I didn't find any public blog posts linked to this account.
-
-Project homepage: https://deemarte-com.netlify.app/ 🌐
-
-If you write articles or tutorials, consider linking them from your profile or adding a /blog section to your site so they appear here.
-
-## Connect with Me
-
-{}
