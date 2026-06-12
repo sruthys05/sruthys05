@@ -1,103 +1,119 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/wave.svg" width="45" height="45"/>
-  Hello World! I'm <span style="color:#00ff9d">SRUTHY S</span> 👋
-</h1>
+<!-- ============ DARK THEME GitHub Profile README (DETAILED) ============ -->
+<!-- Replace USERNAME everywhere with your GitHub username: sruthys05 -->
+<!-- Optional: replace the placeholders in “Some Facts About Me” with your real info -->
 
-<h3 align="center">Full Stack Developer | Building Scalable Solutions</h3>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sruthys05&label=Profile%20Views&color=00ff9d&style=for-the-badge&base=0" alt="Profile Views"/>
-</div>
-
----
-
-## 👩‍💻 About Me
-
-- 🌱 Passionate about **clean code**, **scalable systems**, and **modern web technologies**
-- 💡 Currently diving deeper into **Cloud Architecture** and **System Design**
-- 🔥 Always learning, building, and solving problems on LeetCode & HackerRank
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</div>
-
-### Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</div>
-
-### Backend
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33D?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-</div>
-
-### Databases
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</div>
-
-### DevOps & Tools
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sruthys05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sruthys05&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sruthys05&theme=tokyonight&column=7&margin-w=15" alt="Trophies"/>
-
-</div>
-
----
-
-## 🔗 Let's Connect
+<h1 align="center">Hello World! 👋 I'm SRUTHY S</h1>
 
 <p align="center">
-  <a href="https://github.com/sruthys05">
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="50" height="50" title="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sruthy-s8">
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="50" height="50" title="LinkedIn"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/sruthyS84">
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/hackerrank.svg" width="50" height="50" title="HackerRank"/>
-  </a>
-  <a href="https://leetcode.com/u/Sruthy-S">
-    <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/leet-code.svg" width="50" height="50" title="LeetCode"/>
-  </a>
+	<a href="https://github.com/sruthys05">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=9BE9A8&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Spring+Boot;Always+learning%2C+always+building" />
+	</a>
 </p>
 
-<br>
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=sruthys05&label=Profile%20views&color=0e75b6&style=flat" />
+	<img src="https://img.shields.io/github/followers/sruthys05?label=Followers&style=flat&color=0e75b6" />
+	<img src="https://img.shields.io/github/stars/sruthys05?label=Stars&style=flat&color=0e75b6" />
+</p>
 
-<div align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
-</div>
+---
+
+## Some Facts About Me
+
+- 🎓 **Student / Developer** (update with your current role)
+- 💻 Interested in **Full-Stack Development**, **Cloud**, and **Problem Solving**
+- 🌱 Currently learning: **(your current focus — e.g., DSA / System Design / AWS)**
+- 🧩 Fun fact: **(add one fun line about you)**
+
+---
+
+## Tech Stack (Dark Theme Badges)
+
+### Programming Languages
+<p align="left">
+	<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=F89820" />
+	<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+	<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+### Frontend
+<p align="left">
+	<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+	<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+	<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
+
+### Backend
+<p align="left">
+	<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" />
+	<img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+	<img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639" />
+</p>
+
+### Databases
+<p align="left">
+	<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+	<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+	<img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" />
+</p>
+
+### DevOps / Cloud
+<p align="left">
+	<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+	<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+	<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+	<img src="https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=white" />
+	<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+### Frameworks / Tools
+<p align="left">
+	<img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20" />
+	<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+	<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+	<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+	<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D" />
+</p>
+
+---
+
+## GitHub Stats (Dark Theme)
+
+<p align="center">
+	<img height="180" src="https://github-readme-stats.vercel.app/api?username=sruthys05&show_icons=true&theme=tokyonight&hide_border=true" />
+	<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthys05&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+	<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sruthys05&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Trophies (Dark Theme)
+
+<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=sruthys05&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## Connect with Me
+
+<p align="left">
+	<a href="https://github.com/sruthys05">
+		<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+	</a>
+	<a href="https://www.linkedin.com/in/sruthy-s8">
+		<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+	</a>
+	<a href="https://www.hackerrank.com/profile/sruthyS84">
+		<img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+	</a>
+	<a href="https://leetcode.com/u/Sruthy-S">
+		<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+	</a>
+</p>
 
 
