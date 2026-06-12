@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  ✨ Hi, I'm <span style="color:#38BDF8;">SRUTHY S</span> 👋
+   Hi, I'm <span style="color:#38BDF8;">SRUTHY S</span> 👋
 </h1>
 
 <p align="center">
