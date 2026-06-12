@@ -2,37 +2,41 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="2" alt="divider" />
 </p>
 
-<h1 align="center">
-  ✨ Hi, I'm <span style="color:#38BDF8;">SRUTHY S</span> 👋
-</h1>
+<h1 align="center">✨ SRUTHY S ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=600&color=38BDF8&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+%7C+ECE+Student;Java+%7C+Python+%7C+React+%7C+Node.js;Aspiring+SDE+%7C+Cloud+%7C+DevOps+Engineer;Building+Scalable+%26+Real+World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React+%7C+Node.js;Aspiring+SDE+%7C+Cloud+%7C+DevOps+Engineer;Building+Scalable+%26+Real+World+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Aspiring%20SDE-38BDF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☁️%20Cloud%20%26%20DevOps-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯%20Open%20to%20Internships-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Open%20to%20Work-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/☁️%20Cloud%20%26%20DevOps-0284C7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📍%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=60A5FA" />
 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="2" alt="divider" />
 </p>
 
-<!-- LEFT COLUMN -->
+---
+
+<table>
+<tr>
+
+<!-- ============ LEFT COLUMN ============ -->
 <td width="33%" valign="top">
 
 ## About
-I’m a Full Stack Developer focused on building clean UIs and reliable backends, improving problem‑solving skills, and learning cloud + system design.
+I’m a Full Stack Developer focused on building clean UIs and reliable backends. I enjoy problem solving and learning cloud + system design.
 
 ### Achievements
 <p align="left">
-  <img src="https://img.shields.io/badge/Problem%20Solving-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" /><br>
-  <img src="https://img.shields.io/badge/Coding-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /><br>
-  <img src="https://img.shields.io/badge/Dev%20Tools-111827?style=for-the-badge&logo=git&logoColor=F05032" /><br>
-  <img src="https://img.shields.io/badge/Design-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <!-- Round “achievement” style icons -->
+  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" /><br>
+  <img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /><br>
+  <img src="https://img.shields.io/badge/Git%20%26%20Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" /><br>
+  <img src="https://img.shields.io/badge/UI%20%26%20Design-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
 ### Profile Views
@@ -40,11 +44,12 @@ I’m a Full Stack Developer focused on building clean UIs and reliable backends
 
 </td>
 
-<!-- RIGHT COLUMN -->
+<!-- ============ RIGHT COLUMN ============ -->
 <td width="67%" valign="top">
 
 ## Tech Stack
 <p align="left">
+  <!-- Colorful rectangle badges like the screenshot -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -60,25 +65,34 @@ I’m a Full Stack Developer focused on building clean UIs and reliable backends
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 Trophies
+## Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sruthys05&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sruthys05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7&cache_seconds=1800"
+    alt="trophies"
+  />
 </p>
 
 ---
 
-## Stats
+## GitHub Stats
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sruthys05&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthys05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sruthys05&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## Socials
 <p align="left">
@@ -94,6 +108,7 @@ I’m a Full Stack Developer focused on building clean UIs and reliable backends
   <a href="https://leetcode.com/u/Sruthy-S">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" />
   </a>
+  <!-- Optional like your screenshot -->
   <a href="https://dev.to/">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
