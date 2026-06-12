@@ -4,25 +4,21 @@
      IMPORTANT: img src must be plain URL (no [url](url)).
 ================================ -->
 
-<h1 align="center">Hello World! 👋 I'm SRUTHY S</h1>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=700&color=7C3AED&center=true&vCenter=true&width=980&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React+%7C+Node.js;Open+to+Work+%2F+Internships"
-    alt="Typing SVG"
-  />
-</p>
+<h1 align="center">Hello World! 👋</h1>
+<h2 align="center">I'm SRUTHY S</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India-111827?style=for-the-badge&logo=googlemaps&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Full%20Stack-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=700&color=F97316&center=true&vCenter=true&width=900&lines=Java+%7C+Python+%7C+React+%7C+Node.js;Problem+Solving+%7C+Projects+%7C+Learning" />
+</p>
 
-<table>
-<tr>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:F97316,50:7C3AED,100:22D3EE&section=header" width="900" />
+</p>
 
 <!-- ============ LEFT COLUMN ============ -->
 <td width="33%" valign="top">
