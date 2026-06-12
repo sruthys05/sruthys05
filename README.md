@@ -1,38 +1,95 @@
-# Hi 👋, I'm Sruthy
+# Hi there! 👋
 
-### A Passionate Developer
+I'm **sruthys05** — a curious Full-Stack Developer building modern web experiences.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/sruthys05&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/sruthys05" /> </p>
+Role: Full-Stack Developer (React + Spring Boot + Cloud & DevOps)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/sruthys05" alt="https://github.com/sruthys05" /></a> </p>
+Tagline: Crafting responsive React frontends and robust Spring Boot backends, with scalable cloud deployments and DevOps practices for clean APIs and great UX. 🚀
 
-- 🔭 I'm currently working on **🔭 I'm currently working on cloud-based and software development projects.
-🚀 Strengthening my skills in DevOps, DSA, and modern development practices.**
+## About Me
 
-- 🌱 I'm currently learning **Aspiring SDE, Cloud, and DevOps Engineer with a passion for AI, innovation, and continuous learning. Building skills to create scalable and real-world software solutions.**
+### About Me
 
-- 👯 I'm looking to collaborate on **I'm looking to collaborate on real-world software engineering, cloud, and DevOps projects that create meaningful impact.**
+- Name: **sruthys05**
+- Role: Full‑Stack Developer (React + Spring Boot)
+- Location: Not specified
+- GitHub member since: June 2026
 
-- 🤝 I'm looking for help with **I'm looking for help with building scalable applications, system design, and cloud technologies.**
+I build full‑stack web applications with a focus on responsive user interfaces and reliable RESTful backends. My most notable project so far is an e‑commerce demo (Deemart) that combines a React frontend and a Spring Boot backend. I enjoy improving UX, working with JSON APIs, and learning deployment workflows.
 
-- 💬 Ask me about **Ask me about Git/GitHub, cloud concepts, and software engineering fundamentals.**
+Currently working on: polishing the Deemart e‑commerce project and exploring deployment & performance tools (Netlify, Docker).
 
-- 📫 How to reach me **sruthy.saravanan05@gmail.com**
+Website: https://deemarte-com.netlify.app/ 🌐
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/https://github.com/sruthys05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/sruthys05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ sruthy-s8 Vanity URL name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ sruthy-s8 Vanity URL name" height="30" width="40" /></a>
-<a href="https://hackerrank.com/https://www.hackerrank.com/profile/sruthyS84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sruthyS84" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/Sruthy-S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Sruthy-S" height="30" width="40" /></a>
-</p>
+## Skills & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+react,js,java,spring,html,css,nodejs,netlify,github,git
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/sruthys05&show_icons=true&locale=en&layout=compact" alt="https://github.com/sruthys05" /></p>
+## Top Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/sruthys05&show_icons=true&locale=en" alt="https://github.com/sruthys05" /></p>
+### Top Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/sruthys05&" alt="https://github.com/sruthys05" /></p>
+- [E-commerce-Website-Deemart](https://github.com/sruthys05/E-commerce-Website-Deemart)
+  - Description: E‑commerce site built with React.js frontend and Spring Boot backend. Responsive product listing, cart & checkout, JWT security and REST APIs.
+  - Stars: 0 ⭐
+  - Primary language: JavaScript
+  - Forks: 0 | Watchers: 0 | Open issues: 0
+  - Live demo / homepage: https://deemarte-com.netlify.app/ 🌐
 
+- [sruthys05 (profile repo)](https://github.com/sruthys05/sruthys05)
+  - Description: Personal GitHub profile repository (this README / profile customization).
+  - Stars: 0 ⭐
+  - Primary language: —
+  - Forks: 0 | Watchers: 0 | Open issues: 0
+
+(Note: Projects shown are based on repositories in this account. If you'd like a curated pinned list, pin repos on your GitHub profile.)
+
+## GitHub Stats
+
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sruthys05&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sruthys05&layout=compact&theme=default)
+
+- Public repositories: **2**
+- Followers: **0**
+- Following: **0**
+
+Badges:
+
+- ![Followers](https://img.shields.io/github/followers/sruthys05?label=Followers&style=for-the-badge)
+- ![Public Repos](https://img.shields.io/badge/Public%20Repos-2-blue?style=for-the-badge)
+
+## Recent Activity
+
+### Recent Activity
+
+Here are the latest public events from this account (most recent first):
+
+- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T13:00:07Z
+- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:37:08Z
+- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:35:40Z
+- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:34:21Z
+- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:33:21Z
+- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:31:32Z
+- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:29:51Z
+- PushEvent — Pushed to [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T12:27:32Z
+- CreateEvent — Created branch `main` in [sruthys05/sruthys05](https://github.com/sruthys05/sruthys05) — 2026-06-12T11:51:41Z
+- PushEvent — Pushed to [sruthys05/E-commerce-Website-Deemart](https://github.com/sruthys05/E-commerce-Website-Deemart) — 2026-06-10T10:02:38Z
+
+(Showing up to the last 10 public events.)
+
+## Latest Blog Posts
+
+### Latest Blog Posts
+
+I didn't find any public blog posts linked to this account.
+
+Project homepage: https://deemarte-com.netlify.app/ 🌐
+
+If you write articles or tutorials, consider linking them from your profile or adding a /blog section to your site so they appear here.
+
+## Connect with Me
+
+{}
