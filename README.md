@@ -2,16 +2,17 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="2" alt="divider" />
 </p>
 
-<h1 align="center">SRUTHY S</h1>
+<h1 align="center">Hi, I'm SRUTHY S 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=600&color=22D3EE&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React+%7C+Node.js;Open+to+Work+%2F+Internships" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=600&color=38BDF8&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+%7C+ECE+Student;Java+%7C+Python+%7C+React+%7C+Node.js;Aspiring+SDE+%7C+Cloud+%7C+DevOps+Engineer;Building+Scalable+and+Real+World+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech%20Focus-Full%20Stack-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India-111827?style=for-the-badge&logo=googlemaps&logoColor=60A5FA" />
+  <img src="https://img.shields.io/badge/Aspiring%20SDE-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Internships-22C55E?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
 <p align="center">
@@ -82,12 +83,6 @@ I’m a Full Stack Developer focused on building clean UIs and reliable backends
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sruthys05&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthys05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sruthys05&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## Socials
 <p align="left">
