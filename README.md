@@ -1,5 +1,17 @@
-# 💫 About Me:
-👋 Hi, I'm an Electronics and Communication Engineering (ECE) student.<br><br>🚀 Aspiring Software Development Engineer (SDE), Cloud Engineer, and DevOps Engineer.<br><br>🌱 Currently learning:<br><br>Artificial Intelligence (AI)<br>Machine Learning fundamentals<br>Cloud Computing<br>DevOps tools and practices<br>Software Development<br>Data Structures and Algorithms<br>Git & GitHub<br><br>👯 Looking to collaborate on:<br><br>AI and Machine Learning projects<br>Open Source Contributions<br>Web Development projects<br>Cloud and DevOps projects<br>Innovative software solutions<br><br>💡 Interested in:<br><br>Artificial Intelligence<br>Cloud Technologies<br>Automation<br>Scalable Systems<br>Software Engineering<br><br>🎯 Goal:<br>To build impactful technology solutions while continuously improving my technical and problem-solving skills.
+### About Me
+
+👋 Hi I'm Sruthy, I'm an ECE student passionate about technology and innovation.
+
+🚀 Aspiring Software Development Engineer (SDE), Cloud Engineer, and DevOps Engineer.
+
+🌱 Currently learning AI, Machine Learning, Cloud Computing, DevOps, Software Development, DSA, and Git/GitHub.
+
+👯 Open to collaborating on AI, open-source, web development, cloud, and DevOps projects.
+
+💡 Interested in AI, cloud technologies, automation, scalable systems, and software engineering.
+
+🎯 Goal: To build impactful solutions while continuously growing my technical and problem-solving skills.
+
 
 
 ## 🌐 Socials:
