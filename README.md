@@ -73,13 +73,16 @@ I’m a Full Stack Developer focused on building clean UIs and reliable backends
 </p>
 
 ---
+## 📊 Repository Stats
 
-## Trophies
-<p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sruthys05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7&cache_seconds=1800"
-    alt="trophies"
-  />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sruthys05/YOUR_REPO/badges/output/version.svg" />
+  <img src="https://raw.githubusercontent.com/sruthys05/YOUR_REPO/badges/output/updated.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sruthys05/YOUR_REPO/badges/output/files.svg" />
+  <img src="https://raw.githubusercontent.com/sruthys05/YOUR_REPO/badges/output/lines.svg" />
 </p>
 
 ---
