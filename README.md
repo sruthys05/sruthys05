@@ -70,9 +70,9 @@ I’m a Full Stack Developer focused on building clean UIs and reliable backends
 
 ---
 
-## Trophies
+## 🏆 Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sruthys05&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sruthys05&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
