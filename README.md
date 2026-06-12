@@ -1,56 +1,83 @@
 <h1 align="center">Hello World! 👋 I'm SRUTHY S</h1>
 
-<h2 align="left">Some Facts About Me</h2>
+<h3 align="center">Full Stack Developer | Problem Solver | Always Learning</h3>
 
-<h2 align="left">Skillset</h2>
+<br>
 
-<h3 align="left">Programming Languages:</h3>
+## 👩‍💻 Some Facts About Me
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='40' height='40' title='java'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
+- 🌱 Passionate about building scalable web applications
+- 💡 Currently exploring cloud-native development and modern DevOps practices
+- 📫 Open to collaboration on interesting projects
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" />
+<br>
 
-<h3 align="left">Frontend Development:</h3>
+## 🛠️ Skillset
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width='40' height='40' title='reactjs'/></p>
+### Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width="40" height="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width="40" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width="40" height="40" title="Python"/>
+</p>
 
-<h3 align="left">Backend Development:</h3>
+### Frontend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/reactjs.svg" width="40" height="40" title="React"/>
+</p>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/spring.svg" width='40' height='40' title='spring'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width='40' height='40' title='express'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nginx.svg" width='40' height='40' title='nginx'/></p>
+### Backend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width="40" height="40" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/spring.svg" width="40" height="40" title="Spring"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/express.svg" width="40" height="40" title="Express"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nginx.svg" width="40" height="40" title="Nginx"/>
+</p>
 
-<h3 align="left">Database Management:</h3>
+### Database Management
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width="40" height="40" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/sqlite.svg" width="40" height="40" title="SQLite"/>
+</p>
 
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mongodb.svg" width='40' height='40' title='mongodb'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='mysql'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/sqlite.svg" width='40' height='40' title='sqlite'/></p>
+### DevOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width="40" height="40" title="AWS"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/bash.svg" width="40" height="40" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width="40" height="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/jenkins.svg" width="40" height="40" title="Jenkins"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/kubernetes.svg" width="40" height="40" title="Kubernetes"/>
+</p>
 
-<h3 align="left">Devops:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width='40' height='40' title='aws'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/bash.svg" width='40' height='40' title='bash'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='docker'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/jenkins.svg" width='40' height='40' title='jenkins'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/kubernetes.svg" width='40' height='40' title='kubernetes'/></p>
-
-<h3 align="left">Frameworks:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/django.svg" width='40' height='40' title='django'/></p>
-
-<h3 align="left">Softwares:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width='40' height='40' title='figma'/></p>
-
-<h3 align="left">Others:</h3>
-
-<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/arduino.svg" width='40' height='40' title='arduino'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
+### Frameworks & Others
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/django.svg" width="40" height="40" title="Django"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Software/figma.svg" width="40" height="40" title="Figma"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/arduino.svg" width="40" height="40" title="Arduino"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width="40" height="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width="40" height="40" title="Linux"/>
+</p>
 
 <br><hr><br>
 
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=" />
+## 📊 GitHub Stats
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" />
+<img width="49%" align="left" src="https://github-readme-stats.vercel.app/api?username=sruthys05&show_icons=true&locale=en&theme=radical" />
+<img width="49%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sruthys05&theme=radical" />
 
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=&" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=sruthys05&theme=radical&column=7" />
 
-<img align="left" src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" />
+<br><br>
 
-<h2 align="left">Connect with Me</h2>
+## 🔗 Connect with Me
 
-<p align='left'><a href="https://github.com/sruthys05"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="www.linkedin.com/in/ sruthy-s8 "><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a><a href="https://www.hackerrank.com/profile/sruthyS84"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/hackerrank.svg" width="40" height='40' title="hackerrank"/></a><a href="https://leetcode.com/u/Sruthy-S"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/leet-code.svg" width="40" height='40' title="leet-code"/></a></p>
+<p align="left">
+  <a href="https://github.com/sruthys05"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height="40" title="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/sruthy-s8"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" title="LinkedIn"/></a>
+  <a href="https://www.hackerrank.com/profile/sruthyS84"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/hackerrank.svg" width="40" height="40" title="HackerRank"/></a>
+  <a href="https://leetcode.com/u/Sruthy-S"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/leet-code.svg" width="40" height="40" title="LeetCode"/></a>
+</p>
 
 
 
