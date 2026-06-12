@@ -1,15 +1,10 @@
 ### 💫 About Me
 
 👋 ECE student passionate about technology and innovation.
-
 🚀 Aspiring **Software Development Engineer (SDE)**, **Cloud Engineer**, and **DevOps Engineer**.
-
 🌱 Currently learning **AI/ML, Cloud Computing, DevOps, DSA, and Software Development**.
-
 🤝 Open to collaborating on **open-source, AI, cloud, and software projects**.
-
 🎯 Building skills to create impactful and scalable technology solutions.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sruthy-s8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sruthy.saravanan84@gmail.com) 
