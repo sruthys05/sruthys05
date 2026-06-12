@@ -1,9 +1,9 @@
 ### 💫 About Me
 
 👋 ECE student passionate about technology and innovation.
-🚀 Aspiring **Software Development Engineer (SDE)**, **Cloud Engineer**, and **DevOps Engineer**.
-🌱 Currently learning **AI/ML, Cloud Computing, DevOps, DSA, and Software Development**.
-🤝 Open to collaborating on **open-source, AI, cloud, and software projects**.
+🚀 Aspiring Software Development Engineer (SDE), Cloud Engineer, and DevOps Engineer.
+🌱 Currently learning AI/ML, Cloud Computing, DevOps, DSA, and Software Development.
+🤝 Open to collaborating on open-source, AI, cloud, and software projects.
 🎯 Building skills to create impactful and scalable technology solutions.
 
 ## 🌐 Socials:
