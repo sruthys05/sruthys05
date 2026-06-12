@@ -72,20 +72,7 @@ I’m a Full Stack Developer focused on building clean UIs and reliable backends
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
-## 📊 Repository Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sruthys05/YOUR_REPO/badges/output/version.svg" />
-  <img src="https://raw.githubusercontent.com/sruthys05/YOUR_REPO/badges/output/updated.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sruthys05/YOUR_REPO/badges/output/files.svg" />
-  <img src="https://raw.githubusercontent.com/sruthys05/YOUR_REPO/badges/output/lines.svg" />
-</p>
-
----
 
 ## GitHub Stats
 <p align="left">
