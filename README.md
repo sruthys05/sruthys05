@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🚀%20Aspiring%20SDE-38BDF8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/☁️%20Cloud%20%26%20DevOps-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻%20Open%20tp%20Work-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻%20Open%20to%20Work-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🎯%20Open%20to%20Internships-22C55E?style=for-the-badge" />
 </p>
 
