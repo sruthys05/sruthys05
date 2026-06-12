@@ -2,24 +2,19 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="2" alt="divider" />
 </p>
 
-<h1 align="center">✨ 𝑺𝑹𝑼𝑻𝑯𝒀 𝑺 ✨</h1>
+<h1 align="center">
+  ✨ Hi, I'm <span style="color:#38BDF8;">SRUTHY S</span> 👋
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=700&color=00F5FF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;Aspiring+SDE+%7C+Cloud+%7C+DevOps+Engineer;Java+%7C+Python+%7C+React+%7C+Node.js;Building+Scalable+%26+Real+World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=600&color=38BDF8&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+%7C+ECE+Student;Java+%7C+Python+%7C+React+%7C+Node.js;Aspiring+SDE+%7C+Cloud+%7C+DevOps+Engineer;Building+Scalable+%26+Real+World+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Open%20To%20Work-00F5FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Aspiring%20SDE-38BDF8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/☁️%20Cloud%20%26%20DevOps-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍%20India-111827?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀%20OPEN%20TO%20WORK-00F5FF?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/💻%20FULL%20STACK%20DEV-111111?style=for-the-badge&logo=vercel&logoColor=00F5FF" />
-  <img src="https://img.shields.io/badge/☁️%20CLOUD%20%26%20DEVOPS-0A0A0A?style=for-the-badge&logo=icloud&logoColor=00F5FF" />
-  <img src="https://img.shields.io/badge/📍%20INDIA-000000?style=for-the-badge&logo=googlemaps&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/💻%20Full%20Stack%20Developer-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯%20Open%20to%20Internships-22C55E?style=for-the-badge" />
 </p>
 
 <p align="center">
