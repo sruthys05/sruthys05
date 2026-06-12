@@ -1,30 +1,60 @@
-<!-- ===============================
-     PROFILE README (2-column UI like your screenshot)
-     Replace username + links as needed.
-     IMPORTANT: img src must be plain URL (no [url](url)).
-================================ -->
+<!-- =====================================================
+   2-COLUMN README + NEW HEADER STYLE (NO WAVE)
+   Replace "sruthys05" if your GitHub username is different.
+   IMPORTANT: img src must be plain URL (no [url](url)).
+===================================================== -->
+
+<!-- ===== NEW HEADER (different style, no wave background) ===== -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="2" alt="divider" />
+</p>
 
 <h1 align="center">SRUTHY S</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=600&color=22D3EE&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;Java+%7C+Python+%7C+React+%7C+Node.js;Open+to+Work+%2F+Internships" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech%20Focus-Full%20Stack-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India-111827?style=for-the-badge&logo=googlemaps&logoColor=60A5FA" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=Java+%7C+Python+%7C+React+%7C+Node.js;Building+projects+%E2%9A%A1+Learning+daily;Open+to+Internships" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="2" alt="divider" />
 </p>
 
-<p align="center">
-  <img src="https://svgur.com/i/yuM.svg" width="900" alt="neon line"/>
+---
+
+<!-- ===== 2 COLUMN LAYOUT (like your screenshot) ===== -->
+<table>
+<tr>
+
+<!-- LEFT COLUMN -->
+<td width="33%" valign="top">
+
+## About
+I’m a Full Stack Developer focused on building clean UIs and reliable backends, improving problem‑solving skills, and learning cloud + system design.
+
+### Achievements
+<p align="left">
+  <img src="https://img.shields.io/badge/Problem%20Solving-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" /><br>
+  <img src="https://img.shields.io/badge/Coding-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" /><br>
+  <img src="https://img.shields.io/badge/Dev%20Tools-111827?style=for-the-badge&logo=git&logoColor=F05032" /><br>
+  <img src="https://img.shields.io/badge/Design-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
-<!-- ============ RIGHT COLUMN ============ -->
+### Profile Views
+<img src="https://komarev.com/ghpvc/?username=sruthys05&label=Profile%20views&color=7C3AED&style=flat" />
+
+</td>
+
+<!-- RIGHT COLUMN -->
 <td width="67%" valign="top">
 
 ## Tech Stack
 <p align="left">
-  <!-- Colorful rectangle badges like the screenshot -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -40,8 +70,8 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -49,15 +79,12 @@
 
 ## Trophies
 <p align="left">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sruthys05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7&cache_seconds=1800"
-    alt="trophies"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=sruthys05&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7&cache_seconds=1800" />
 </p>
 
 ---
 
-## GitHub Stats
+## Stats
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sruthys05&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthys05&layout=compact&theme=tokyonight&hide_border=true" />
@@ -83,7 +110,6 @@
   <a href="https://leetcode.com/u/Sruthy-S">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" />
   </a>
-  <!-- Optional like your screenshot -->
   <a href="https://dev.to/">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
