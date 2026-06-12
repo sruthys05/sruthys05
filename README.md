@@ -1,5 +1,14 @@
-# 💫 About Me:
-👋 Hi, I'm an Electronics and Communication Engineering (ECE) student.<br><br>🚀 Aspiring Software Development Engineer (SDE), Cloud Engineer, and DevOps Engineer.<br><br>🌱 Currently learning:<br><br>Artificial Intelligence (AI)<br>Machine Learning fundamentals<br>Cloud Computing<br>DevOps tools and practices<br>Software Development<br>Data Structures and Algorithms<br>Git & GitHub<br><br>👯 Looking to collaborate on:<br><br>AI and Machine Learning projects<br>Open Source Contributions<br>Web Development projects<br>Cloud and DevOps projects<br>Innovative software solutions<br><br>💡 Interested in:<br><br>Artificial Intelligence<br>Cloud Technologies<br>Automation<br>Scalable Systems<br>Software Engineering<br><br>🎯 Goal:<br>To build impactful technology solutions while continuously improving my technical and problem-solving skills.
+### 💫 About Me
+
+👋 ECE student passionate about technology and innovation.
+
+🚀 Aspiring **Software Development Engineer (SDE)**, **Cloud Engineer**, and **DevOps Engineer**.
+
+🌱 Currently learning **AI/ML, Cloud Computing, DevOps, DSA, and Software Development**.
+
+🤝 Open to collaborating on **open-source, AI, cloud, and software projects**.
+
+🎯 Building skills to create impactful and scalable technology solutions.
 
 
 ## 🌐 Socials:
