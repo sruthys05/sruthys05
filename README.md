@@ -26,8 +26,8 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,spring,django,nodejs,react,bootstrap&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,amplify,azure,docker,kubernetes,jenkins,nginx,linux,git,grafana&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,kafka,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,opencv&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,nginx,linux,git&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,matplotlib,opencv&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=postman,selenium,figma,arduino&theme=dark" />
 </p>
 
