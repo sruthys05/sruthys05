@@ -3,7 +3,7 @@
 
 <!-- Animated banner -->
 <p align="center">
-  <img src="./assets/banner.svg" alt="Sruthy S - Aspiring Engineer" width="100%" />
+  <img src="./banner.svg" alt="Sruthy S - Aspiring Engineer" width="100%" />
 </p>
 
 <!-- Typing animation -->
