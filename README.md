@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Sruthy S - Aspiring Engineer" width="100%" />
+  <img src="./Nail.svg" alt="Sruthy S - Aspiring Engineer" width="100%" />
 </p>
 
 <p align="center">
