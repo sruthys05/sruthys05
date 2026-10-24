@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner.jpeg" alt="Sruthy S - Aspiring Engineer" width="100%" />
+  <img src="./banner.svg" alt="Sruthy S - Aspiring Engineer" width="85%" />
 </p>
 
 <h1 align="center">Hi there, I'm Sruthy S 👋</h1>
