@@ -25,10 +25,10 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,js,html,css,spring,django,nodejs,react,bootstrap&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,spring,django,nodejs,react,bootstrap&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx,linux,git&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,matplotlib,opencv&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postman,selenium,figma,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,opencv&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=selenium,figma,arduino&theme=dark" />
 </p>
 
 ## 📊 GitHub Stats
